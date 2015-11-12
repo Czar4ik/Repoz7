@@ -102,7 +102,7 @@ void main()
 
 	cout << "a < b? = ";
 	(a < b);
-	cout << "a + b: ";
+	cout << "a + b= ";
 	(a + b);
 	cout << "a(+100) - b = ";
 	(a - b);
